@@ -18,7 +18,7 @@ Install ocamlbuild.  Then do either
 Usage 
 ===============================================
 
-Usage: slang.byte [options] [<file>]
+Usage: l1.byte [options] [<file>]
 Options are:
   -V verbose front end
   -v verbose interpreter(s)
